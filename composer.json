@@ -1,0 +1,5 @@
+{
+    "require": {
+        "easycorp/easy-log-handler": "^1.0"
+    }
+}
